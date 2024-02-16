@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\bin\Debug\net6.0\ExercicioCalculadoracomClasse.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\bin\Debug\net6.0\ExercicioCalculadoracomClasse.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\bin\Debug\net6.0\ExercicioCalculadoracomClasse.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\bin\Debug\net6.0\ExercicioCalculadoracomClasse.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\bin\Debug\net6.0\ExercicioCalculadoracomClasse.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\refint\ExercicioCalculadoracomClasse.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ExercicioCalculadoracomClasse.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioCalculadoracomClasse\ExercicioCalculadoracomClasse\obj\Debug\net6.0\ref\ExercicioCalculadoracomClasse.dll
