@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\bin\Debug\net6.0\ExercicioLambidaLinq.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\bin\Debug\net6.0\ExercicioLambidaLinq.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\bin\Debug\net6.0\ExercicioLambidaLinq.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\bin\Debug\net6.0\ExercicioLambidaLinq.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\bin\Debug\net6.0\ExercicioLambidaLinq.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\refint\ExercicioLambidaLinq.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ExercicioLambidaLinq.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioLambidaLinq\ExercicioLambidaLinq\obj\Debug\net6.0\ref\ExercicioLambidaLinq.dll
