@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\bin\Debug\net6.0\ExerciciosdeExceçoes.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\bin\Debug\net6.0\ExerciciosdeExceçoes.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\bin\Debug\net6.0\ExerciciosdeExceçoes.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\bin\Debug\net6.0\ExerciciosdeExceçoes.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\bin\Debug\net6.0\ExerciciosdeExceçoes.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\refint\ExerciciosdeExceçoes.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ExerciciosdeExceçoes.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExerciciosdeExceçoes\ExerciciosdeExceçoes\obj\Debug\net6.0\ref\ExerciciosdeExceçoes.dll

@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\bin\Debug\net6.0\ExercicioPolimorfismoeHerança.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\bin\Debug\net6.0\ExercicioPolimorfismoeHerança.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\bin\Debug\net6.0\ExercicioPolimorfismoeHerança.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\bin\Debug\net6.0\ExercicioPolimorfismoeHerança.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\bin\Debug\net6.0\ExercicioPolimorfismoeHerança.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\refint\ExercicioPolimorfismoeHerança.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ExercicioPolimorfismoeHerança.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioPolimorfismoeHerança\ExercicioPolimorfismoeHerança\obj\Debug\net6.0\ref\ExercicioPolimorfismoeHerança.dll
