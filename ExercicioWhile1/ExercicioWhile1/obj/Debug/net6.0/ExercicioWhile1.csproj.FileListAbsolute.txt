@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\bin\Debug\net6.0\ExercicioWhile1.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\refint\ExercicioWhile1.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ExercicioWhile1.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\ExercicioWhile1\ExercicioWhile1\obj\Debug\net6.0\ref\ExercicioWhile1.dll
