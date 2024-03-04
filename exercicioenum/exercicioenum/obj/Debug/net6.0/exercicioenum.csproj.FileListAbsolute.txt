@@ -1,0 +1,14 @@
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\bin\Debug\net6.0\exercicioenum.exe
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\bin\Debug\net6.0\exercicioenum.deps.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\bin\Debug\net6.0\exercicioenum.runtimeconfig.json
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\bin\Debug\net6.0\exercicioenum.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\bin\Debug\net6.0\exercicioenum.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.AssemblyInfo.cs
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\refint\exercicioenum.dll
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.pdb
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\exercicioenum.genruntimeconfig.cache
+C:\Users\Luiz\Documents\CursoCSHARP\PROJETO\exercicioenum\exercicioenum\obj\Debug\net6.0\ref\exercicioenum.dll
